@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+Disallow: /contact
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://www.vausly.my.id/sitemap.xml
+
+# Block archive services from scraping
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org 
+Disallow:
+
+User-agent: archive.today
+Disallow: /
+
+User-agent: GhostArchiver
+Disallow: /
+
+User-agent: perma.cc
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
