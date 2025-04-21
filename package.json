@@ -1,6 +1,6 @@
 {
   "name": "landing-page",
-  "homepage": "https://vausly.github.io/profile",
+  "homepage": "/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
