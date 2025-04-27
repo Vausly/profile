@@ -1,4 +1,3 @@
-// src/pages/donate.tsx
 import React, { useState } from 'react';
 import PageWrapper from '../components/PageWrapper';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -22,7 +21,7 @@ const DonatePage = () => {
   return (
     <PageWrapper
       title="Support | Vausly Media"
-      description="Support Vausly Media and help us grow. Your donations keep our creative journey alive."
+      description="Support Vausly Media and help us grow. Your donations help our lo journey alive."
       keywords="donate, support vausly media, contribute, help vausly"
     >
       <div className="max-w-3xl mx-auto py-16 px-4 text-center">
