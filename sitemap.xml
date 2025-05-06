@@ -24,4 +24,14 @@
     <loc>https://www.vausly.my.id/copyright</loc>
     <priority>0.60</priority>
   </url>
+  <url>
+    <loc>https://www.vausly.my.id/story</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.vausly.my.id/achievements</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+  <url>
 </urlset>
