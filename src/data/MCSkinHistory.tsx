@@ -3,7 +3,7 @@ import React from "react";
 export const MinecraftSkinHistory = [
   // {
   //   title: "Skin Name Here",
-  //   description: "Description Here",
+  //   description: "(<>Description Here</>)",
   //   image: "directory",
   //   links: [{
   //       href: "directory",
